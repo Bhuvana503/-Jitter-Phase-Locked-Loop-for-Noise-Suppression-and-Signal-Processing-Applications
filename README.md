@@ -1,5 +1,5 @@
 # -Jitter-Phase-Locked-Loop-for-Noise-Suppression-and-Signal-Processing-Applications
-🚀 Low-jitter charge-pump PLL frequency synthesizer designed and verified in LTspice for noise suppression and precision signal processing.
+Low-jitter charge-pump PLL frequency synthesizer designed and verified in LTspice for noise suppression and precision signal processing.
 
 This project was completed as part of the IEEE CAS SIP internship under the Digital Schematics domain, focusing on jitter-aware PLL design for noise-immune clock generation and signal-processing systems.
 
